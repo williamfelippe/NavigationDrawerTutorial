@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/primary_items" android:checkableBehavior="single">
+        <item
+            android:id="@+id/fragment1"
+            android:icon="@drawable/ic_action_home"
+            android:checked="true"
+            android:title="@string/fragment_1"/>
+
+        <item
+            android:id="@+id/fragment2"
+            android:icon="@drawable/ic_action_highlight"
+            android:title="@string/fragment_2"/>
+    </group>
+</menu>

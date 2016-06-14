@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">NavigationDrawerTutorial</string>
+
+    <string name="fragment_1">Fragment 1</string>
+    <string name="fragment_2">Fragment 2</string>
+    <string name="test">Tony Stark</string>
+    <string name="test_email">tony@starkindustries.com</string>
 </resources>
